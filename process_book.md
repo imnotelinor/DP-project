@@ -29,5 +29,5 @@ Still unsure about the best way to structure the dataset in Bokeh for smooth yea
 What I learned:
 Clarifying the research question and motivation helps narrow the project focus. Also learned more about the logic behind demographic transition and its link to data visualization.
 Resources I used:
-[The global decline of the fertility rate](https://ourworldindata.org/global-decline-fertility-rate)
-[Gapminder dataset source](https://www.gapminder.org/data/)
+- [The global decline of the fertility rate](https://ourworldindata.org/global-decline-fertility-rate)
+- [Gapminder dataset source](https://www.gapminder.org/data/)
